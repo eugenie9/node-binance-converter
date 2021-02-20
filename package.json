@@ -1,0 +1,26 @@
+{
+  "name": "binance-converter",
+  "version": "1.0.0",
+  "description": "A simple GUI to convert coins on Binance Exchange",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node-binance-converter"
+  },
+  "keywords": [
+    "binance",
+    "converter",
+    "coins",
+    "exchange",
+    "nodejs"
+  ],
+  "author": "eugenie9",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-binance-api": "^0.12.4"
+  }
+}
